@@ -1,8 +1,7 @@
-scikit-learn
 streamlit
-streamlit_option_menu
-numpy 
+scikit-learn
 pandas
+numpy
+matplotlib
 seaborn
-metpotlib
-pickle5
+streamlit-option-menu
